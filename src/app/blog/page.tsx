@@ -3,7 +3,7 @@ import { Metadata } from "next";
 import React from "react";
 
 export const metadata:Metadata={
-    title:"All blog- Aalekh ",
+    title:"All blog - Aalekh",
     description:"all blog"
 }
 
