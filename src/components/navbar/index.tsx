@@ -3,7 +3,9 @@ import React, { useState } from "react";
 import Container from "../container";
 import Image from "next/image";
 import Link from "next/link";
-import { motion, useMotionValueEvent, useScroll } from "motion/react";
+// import { motion, useMotionValueEvent, useScroll } from "motion/react";
+import { motion, useMotionValueEvent, useScroll} from "framer-motion";
+
 
 const Navbar = () => {
   const [hovered, setHovered] = useState<number | null>(null);

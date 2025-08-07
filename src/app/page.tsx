@@ -1,5 +1,5 @@
 import Container from "@/components/container";
-import Project from "@/components/projects";
+import Project from "@/components/Project";
 
 const Home = () => {
   return (
